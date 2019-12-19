@@ -2,8 +2,8 @@
     <div class="login">
       <div class="header">
         <div class="header-left">
-          <img src="../static/img/timg.jpg">
-          <span>大学生赛事平台</span>
+          <img src="../static/img/com.jpg">
+          <span>京西电脑商城</span>
         </div>
         <div class="header-right">
           <!--<el-button type="text" @click="gotoIndex"><span>返回首页</span></el-button>-->
